@@ -1,23 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-15T06:41:29.964Z",
-  "lastAttemptedAt": "2026-07-15T06:41:29.965Z",
+  "lastScrapedAt": "2026-07-15T09:02:21.362Z",
+  "lastAttemptedAt": "2026-07-15T09:02:21.362Z",
   "watchlist": [
     "ACIFORMULA",
-    "NAVANAPHAR",
     "PARAMOUNT",
+    "PENINSULA",
+    "SILCOPHL",
     "SQURPHARMA",
+    "RENWICKJA",
     "ACI",
-    "SILVAPHL",
-    "LHB",
-    "SINOBANGLA",
+    "PHARMAID",
     "DUTCHBANGL",
-    "RENWICKJA"
+    "CITYBANK"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 10
+    "stayed": 2,
+    "up": 2,
+    "new": 4,
+    "down": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
