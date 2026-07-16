@@ -1,24 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-16T06:21:26.264Z",
-  "lastAttemptedAt": "2026-07-16T06:21:26.264Z",
+  "lastScrapedAt": "2026-07-16T08:42:54.790Z",
+  "lastAttemptedAt": "2026-07-16T08:42:54.790Z",
   "watchlist": [
-    "NAVANAPHAR",
-    "LANKABAFIN",
-    "SALVO",
-    "SEAPEARL",
-    "AMBEEPHA",
-    "IFIC1STMF",
+    "TECHNODRUG",
     "AGNISYSL",
-    "FARCHEM",
-    "DSSL",
-    "SAPORTL"
+    "SILCOPHL",
+    "SEAPEARL",
+    "NAVANAPHAR",
+    "PENINSULA",
+    "SAPORTL",
+    "SALVO",
+    "MIRACLEIND",
+    "SONALILIFE"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 1,
-    "new": 9
+    "new": 3,
+    "up": 3,
+    "stayed": 1,
+    "down": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
