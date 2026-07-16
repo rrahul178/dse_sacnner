@@ -1,6 +1,6 @@
 {
-  "lastScrapedAt": "2026-07-16T08:42:54.790Z",
-  "lastAttemptedAt": "2026-07-16T08:42:54.790Z",
+  "lastScrapedAt": "2026-07-16T10:47:14.064Z",
+  "lastAttemptedAt": "2026-07-16T10:47:14.064Z",
   "watchlist": [
     "TECHNODRUG",
     "AGNISYSL",
@@ -17,10 +17,7 @@
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 3,
-    "up": 3,
-    "stayed": 1,
-    "down": 3
+    "stayed": 10
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
