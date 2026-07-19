@@ -1,23 +1,25 @@
 {
-  "lastScrapedAt": "2026-07-16T10:47:14.064Z",
-  "lastAttemptedAt": "2026-07-16T10:47:14.064Z",
+  "lastScrapedAt": "2026-07-19T06:32:48.649Z",
+  "lastAttemptedAt": "2026-07-19T06:32:48.649Z",
   "watchlist": [
-    "TECHNODRUG",
+    "UNITEDINS",
     "AGNISYSL",
     "SILCOPHL",
-    "SEAPEARL",
-    "NAVANAPHAR",
-    "PENINSULA",
-    "SAPORTL",
-    "SALVO",
-    "MIRACLEIND",
-    "SONALILIFE"
+    "TECHNODRUG",
+    "MEGHNAPET",
+    "NEWLINE",
+    "SONALIPAPR",
+    "ABB1STMF",
+    "GREENDELMF",
+    "BDCOM"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 10
+    "new": 7,
+    "stayed": 2,
+    "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }

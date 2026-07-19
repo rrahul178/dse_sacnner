@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-01-18",
-    "TRADING CODE": "SILCOPHL",
-    "LTP*": "14",
-    "HIGH": "14.1",
-    "LOW": "13.6",
-    "OPENP*": "13.6",
-    "CLOSEP*": "14",
-    "YCP": "13.6",
-    "TRADE": "226",
-    "VALUE (mn)": "8.634",
-    "VOLUME": "626230"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-01-19",
-    "TRADING CODE": "SILCOPHL",
-    "LTP*": "13.9",
-    "HIGH": "14.1",
-    "LOW": "13.8",
-    "OPENP*": "14",
-    "CLOSEP*": "13.9",
-    "YCP": "14",
-    "TRADE": "263",
-    "VALUE (mn)": "3.824",
-    "VOLUME": "274547"
-  },
-  {
     "#": "113",
     "DATE": "2026-01-20",
     "TRADING CODE": "SILCOPHL",
