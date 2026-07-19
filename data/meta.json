@@ -1,25 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-19T06:32:48.649Z",
-  "lastAttemptedAt": "2026-07-19T06:32:48.649Z",
+  "lastScrapedAt": "2026-07-19T08:59:27.988Z",
+  "lastAttemptedAt": "2026-07-19T08:59:27.988Z",
   "watchlist": [
     "UNITEDINS",
-    "AGNISYSL",
+    "DBH1STMF",
+    "MBL1STMF",
+    "GREENDELMF",
     "SILCOPHL",
-    "TECHNODRUG",
-    "MEGHNAPET",
+    "ABB1STMF",
     "NEWLINE",
     "SONALIPAPR",
-    "ABB1STMF",
-    "GREENDELMF",
-    "BDCOM"
+    "DSHGARME",
+    "AIBL1STIMF"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 7,
-    "stayed": 2,
-    "down": 1
+    "stayed": 1,
+    "new": 4,
+    "up": 2,
+    "down": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
