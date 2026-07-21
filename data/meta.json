@@ -1,26 +1,25 @@
 {
-  "lastScrapedAt": "2026-07-20T10:14:16.285Z",
-  "lastAttemptedAt": "2026-07-20T10:14:16.285Z",
+  "lastScrapedAt": "2026-07-21T06:30:30.787Z",
+  "lastAttemptedAt": "2026-07-21T06:30:30.787Z",
   "watchlist": [
-    "SONARGAON",
-    "GREENDELMF",
     "MBL1STMF",
-    "NCCBLMF1",
-    "PRIMEBANK",
     "SAIHAMCOT",
-    "SANDHANINS",
-    "LRGLOBMF1",
+    "DSHGARME",
+    "DUTCHBANGL",
     "IPDC",
-    "MIRAKHTER"
+    "ETL",
+    "LANKABAFIN",
+    "MLDYEING",
+    "NPOLYMER",
+    "BDFINANCE"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 5,
-    "stayed": 1,
-    "down": 3,
-    "up": 1
+    "up": 5,
+    "new": 4,
+    "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
