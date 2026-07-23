@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-22T09:13:56.910Z",
-  "lastAttemptedAt": "2026-07-22T09:13:56.910Z",
+  "lastScrapedAt": "2026-07-23T06:32:56.621Z",
+  "lastAttemptedAt": "2026-07-23T06:32:56.621Z",
   "watchlist": [
-    "FBFIF",
-    "SONARGAON",
+    "PRIMEFIN",
+    "ILFSL",
     "MBL1STMF",
     "MONOSPOOL",
-    "BAYLEASING",
-    "PRIMEFIN",
-    "FUWANGCER",
-    "PHOENIXFIN",
-    "TRUSTB1MF",
-    "BATBC"
+    "FAREASTFIN",
+    "PLFSL",
+    "CITYBANK",
+    "ETL",
+    "IPDC",
+    "MALEKSPIN"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 1,
-    "down": 2,
+    "up": 3,
     "stayed": 2,
-    "new": 5
+    "new": 3,
+    "down": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
