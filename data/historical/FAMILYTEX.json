@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-01-25",
-    "TRADING CODE": "FAMILYTEX",
-    "LTP*": "1.1",
-    "HIGH": "1.2",
-    "LOW": "1.1",
-    "OPENP*": "1.2",
-    "CLOSEP*": "1.1",
-    "YCP": "1.2",
-    "TRADE": "42",
-    "VALUE (mn)": "0.12",
-    "VOLUME": "103223"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-01-26",
-    "TRADING CODE": "FAMILYTEX",
-    "LTP*": "1.2",
-    "HIGH": "1.2",
-    "LOW": "1.1",
-    "OPENP*": "1.1",
-    "CLOSEP*": "1.1",
-    "YCP": "1.1",
-    "TRADE": "50",
-    "VALUE (mn)": "0.113",
-    "VOLUME": "97530"
-  },
-  {
     "#": "113",
     "DATE": "2026-01-27",
     "TRADING CODE": "FAMILYTEX",

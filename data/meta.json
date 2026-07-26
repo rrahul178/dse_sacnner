@@ -1,24 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-23T09:15:40.550Z",
-  "lastAttemptedAt": "2026-07-23T09:15:40.550Z",
+  "lastScrapedAt": "2026-07-26T06:39:03.642Z",
+  "lastAttemptedAt": "2026-07-26T06:39:03.642Z",
   "watchlist": [
-    "CNATEX",
-    "RINGSHINE",
-    "TUNGHAI",
-    "ILFSL",
-    "NURANI",
-    "FAREASTFIN",
-    "PRIMEFIN",
+    "TECHNODRUG",
+    "SONARGAON",
     "FAMILYTEX",
-    "IBNSINA",
-    "PREMIERBAN"
+    "PARAMOUNT",
+    "ITC",
+    "AAMRATECH",
+    "ETL",
+    "PREMIERBAN",
+    "MEGHNAINS",
+    "UNITEDINS"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 7,
-    "down": 3
+    "up": 4,
+    "stayed": 1,
+    "down": 2,
+    "new": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }

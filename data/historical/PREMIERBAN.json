@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-01-25",
-    "TRADING CODE": "PREMIERBAN",
-    "LTP*": "4",
-    "HIGH": "4.1",
-    "LOW": "3.9",
-    "OPENP*": "4",
-    "CLOSEP*": "4",
-    "YCP": "4",
-    "TRADE": "86",
-    "VALUE (mn)": "3.525",
-    "VOLUME": "881108"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-01-26",
-    "TRADING CODE": "PREMIERBAN",
-    "LTP*": "4",
-    "HIGH": "4.1",
-    "LOW": "4",
-    "OPENP*": "4",
-    "CLOSEP*": "4",
-    "YCP": "4",
-    "TRADE": "46",
-    "VALUE (mn)": "0.714",
-    "VOLUME": "177206"
-  },
-  {
     "#": "113",
     "DATE": "2026-01-27",
     "TRADING CODE": "PREMIERBAN",
