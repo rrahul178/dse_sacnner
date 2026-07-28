@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-07-28T06:29:28.640Z",
-  "lastAttemptedAt": "2026-07-28T06:29:28.640Z",
+  "lastScrapedAt": "2026-07-28T09:21:10.538Z",
+  "lastAttemptedAt": "2026-07-28T09:21:10.538Z",
   "watchlist": [
     "DOMINAGE",
-    "SAIHAMCOT",
+    "SIMTEX",
+    "CENTRALPHL",
+    "MAKSONSPIN",
+    "BDTHAIFOOD",
+    "LEGACYFOOT",
     "NEWLINE",
-    "PEOPLESINS",
-    "FARCHEM",
+    "EXIM1STMF",
     "RINGSHINE",
-    "DESHBANDHU",
-    "RUNNERAUTO",
-    "ETL",
-    "TECHNODRUG"
+    "ACMEPL"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 6,
-    "down": 3,
-    "new": 1
+    "stayed": 1,
+    "new": 7,
+    "down": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
