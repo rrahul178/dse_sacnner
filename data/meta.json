@@ -1,26 +1,25 @@
 {
-  "lastScrapedAt": "2026-07-27T10:58:05.291Z",
-  "lastAttemptedAt": "2026-07-27T10:58:05.291Z",
+  "lastScrapedAt": "2026-07-28T06:29:28.640Z",
+  "lastAttemptedAt": "2026-07-28T06:29:28.640Z",
   "watchlist": [
-    "FARCHEM",
-    "SIPLC",
     "DOMINAGE",
     "SAIHAMCOT",
-    "BNICL",
-    "EBLNRBMF",
+    "NEWLINE",
     "PEOPLESINS",
-    "FAMILYTEX",
+    "FARCHEM",
     "RINGSHINE",
-    "DESHBANDHU"
+    "DESHBANDHU",
+    "RUNNERAUTO",
+    "ETL",
+    "TECHNODRUG"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 2,
-    "new": 2,
-    "stayed": 2,
-    "down": 4
+    "up": 6,
+    "down": 3,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
