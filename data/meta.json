@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-07-29T06:33:27.529Z",
-  "lastAttemptedAt": "2026-07-29T06:33:27.529Z",
+  "lastScrapedAt": "2026-07-29T09:30:31.990Z",
+  "lastAttemptedAt": "2026-07-29T09:30:31.990Z",
   "watchlist": [
-    "PEOPLESINS",
-    "TECHNODRUG",
-    "BERGERPBL",
-    "ACMEPL",
     "GLOBALINS",
-    "SHEPHERD",
+    "MATINSPINN",
+    "ICICL",
+    "PEOPLESINS",
+    "AGRANINS",
+    "EASTLAND",
     "SAIHAMTEX",
-    "SONARGAON",
-    "PRIMEINSUR",
-    "PARAMOUNT"
+    "SHEPHERD",
+    "FEDERALINS",
+    "PURABIGEN"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 4,
-    "new": 4,
-    "stayed": 1,
-    "down": 1
+    "up": 1,
+    "new": 6,
+    "down": 2,
+    "stayed": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
