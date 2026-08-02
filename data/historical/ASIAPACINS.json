@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-02-01",
-    "TRADING CODE": "ASIAPACINS",
-    "LTP*": "40.3",
-    "HIGH": "41.6",
-    "LOW": "39.6",
-    "OPENP*": "40.8",
-    "CLOSEP*": "40.3",
-    "YCP": "40.8",
-    "TRADE": "732",
-    "VALUE (mn)": "14.566",
-    "VOLUME": "361484"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-02-02",
-    "TRADING CODE": "ASIAPACINS",
-    "LTP*": "40.3",
-    "HIGH": "41.7",
-    "LOW": "39.6",
-    "OPENP*": "41",
-    "CLOSEP*": "40.3",
-    "YCP": "40.3",
-    "TRADE": "784",
-    "VALUE (mn)": "19.533",
-    "VOLUME": "481967"
-  },
-  {
     "#": "113",
     "DATE": "2026-02-03",
     "TRADING CODE": "ASIAPACINS",

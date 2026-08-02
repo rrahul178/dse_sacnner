@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-02-01",
-    "TRADING CODE": "GLDNJMF",
-    "LTP*": "5.9",
-    "HIGH": "6.1",
-    "LOW": "5.9",
-    "OPENP*": "6.1",
-    "CLOSEP*": "5.9",
-    "YCP": "6.1",
-    "TRADE": "128",
-    "VALUE (mn)": "2.151",
-    "VOLUME": "360361"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-02-02",
-    "TRADING CODE": "GLDNJMF",
-    "LTP*": "6.1",
-    "HIGH": "6.2",
-    "LOW": "6",
-    "OPENP*": "6",
-    "CLOSEP*": "6.1",
-    "YCP": "5.9",
-    "TRADE": "98",
-    "VALUE (mn)": "2.121",
-    "VOLUME": "349357"
-  },
-  {
     "#": "113",
     "DATE": "2026-02-03",
     "TRADING CODE": "GLDNJMF",

@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-02-01",
-    "TRADING CODE": "SAIHAMTEX",
-    "LTP*": "21.2",
-    "HIGH": "21.4",
-    "LOW": "20.6",
-    "OPENP*": "20.6",
-    "CLOSEP*": "21.2",
-    "YCP": "20.6",
-    "TRADE": "448",
-    "VALUE (mn)": "22.075",
-    "VOLUME": "1047289"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-02-02",
-    "TRADING CODE": "SAIHAMTEX",
-    "LTP*": "21",
-    "HIGH": "21.4",
-    "LOW": "20.6",
-    "OPENP*": "20.6",
-    "CLOSEP*": "21",
-    "YCP": "21.2",
-    "TRADE": "367",
-    "VALUE (mn)": "16.637",
-    "VOLUME": "785627"
-  },
-  {
     "#": "113",
     "DATE": "2026-02-03",
     "TRADING CODE": "SAIHAMTEX",
