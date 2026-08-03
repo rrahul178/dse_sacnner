@@ -1,25 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-02T09:01:19.024Z",
-  "lastAttemptedAt": "2026-08-02T09:01:19.024Z",
+  "lastScrapedAt": "2026-08-03T07:33:28.111Z",
+  "lastAttemptedAt": "2026-08-03T07:33:28.111Z",
   "watchlist": [
-    "QUEENSOUTH",
-    "GLDNJMF",
     "ICBSONALI1",
-    "BDTHAIFOOD",
-    "TRUSTB1MF",
-    "DOREENPWR",
-    "ACIFORMULA",
-    "1JANATAMF",
-    "EASTERNINS",
-    "PHENIXINS"
+    "GLDNJMF",
+    "CENTRALINS",
+    "FBFIF",
+    "HAKKANIPUL",
+    "PRIMEINSUR",
+    "BBS",
+    "GHAIL",
+    "CAPMBDBLMF",
+    "GENEXIL"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 3,
-    "up": 4,
-    "new": 3
+    "up": 2,
+    "stayed": 1,
+    "new": 5,
+    "down": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
