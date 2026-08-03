@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-03T07:33:28.111Z",
-  "lastAttemptedAt": "2026-08-03T07:33:28.111Z",
+  "lastScrapedAt": "2026-08-03T10:57:07.737Z",
+  "lastAttemptedAt": "2026-08-03T10:57:07.737Z",
   "watchlist": [
     "ICBSONALI1",
-    "GLDNJMF",
-    "CENTRALINS",
-    "FBFIF",
-    "HAKKANIPUL",
-    "PRIMEINSUR",
+    "SPCL",
+    "GENEXIL",
+    "PLFSL",
     "BBS",
-    "GHAIL",
-    "CAPMBDBLMF",
-    "GENEXIL"
+    "CENTRALINS",
+    "EGEN",
+    "ILFSL",
+    "NPOLYMER",
+    "AGNISYSL"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 2,
     "stayed": 1,
-    "new": 5,
-    "down": 2
+    "new": 2,
+    "up": 3,
+    "down": 4
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
