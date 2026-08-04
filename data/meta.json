@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-04T06:30:18.523Z",
-  "lastAttemptedAt": "2026-08-04T06:30:18.523Z",
+  "lastScrapedAt": "2026-08-04T09:24:45.741Z",
+  "lastAttemptedAt": "2026-08-04T09:24:45.741Z",
   "watchlist": [
     "CENTRALINS",
-    "ICBSONALI1",
+    "GBBPOWER",
+    "DOREENPWR",
+    "BPPL",
+    "FAMILYTEX",
     "TUNGHAI",
-    "PLFSL",
-    "RUPALILIFE",
-    "ILFSL",
-    "NPOLYMER",
-    "BNICL",
-    "PEOPLESINS",
-    "SONALILIFE"
+    "FEDERALINS",
+    "EIL",
+    "ASIAINS",
+    "PEOPLESINS"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 3,
+    "stayed": 1,
+    "up": 4,
     "down": 3,
-    "stayed": 3,
-    "new": 1
+    "new": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
