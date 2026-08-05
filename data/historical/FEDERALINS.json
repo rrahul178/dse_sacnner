@@ -1,19 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-02-05",
-    "TRADING CODE": "FEDERALINS",
-    "LTP*": "20.5",
-    "HIGH": "20.9",
-    "LOW": "20.2",
-    "OPENP*": "20.9",
-    "CLOSEP*": "20.5",
-    "YCP": "20.4",
-    "TRADE": "123",
-    "VALUE (mn)": "1.844",
-    "VOLUME": "89878"
-  },
-  {
     "#": "114",
     "DATE": "2026-02-08",
     "TRADING CODE": "FEDERALINS",
