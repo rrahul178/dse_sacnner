@@ -1,33 +1,5 @@
 [
   {
-    "#": "115",
-    "DATE": "2026-02-08",
-    "TRADING CODE": "NITOLINS",
-    "LTP*": "29.2",
-    "HIGH": "29.5",
-    "LOW": "28",
-    "OPENP*": "28.2",
-    "CLOSEP*": "29.3",
-    "YCP": "28.5",
-    "TRADE": "139",
-    "VALUE (mn)": "2.483",
-    "VOLUME": "86243"
-  },
-  {
-    "#": "114",
-    "DATE": "2026-02-09",
-    "TRADING CODE": "NITOLINS",
-    "LTP*": "29.3",
-    "HIGH": "30",
-    "LOW": "28.8",
-    "OPENP*": "29.7",
-    "CLOSEP*": "29.5",
-    "YCP": "29.3",
-    "TRADE": "83",
-    "VALUE (mn)": "2.736",
-    "VOLUME": "91665"
-  },
-  {
     "#": "113",
     "DATE": "2026-02-10",
     "TRADING CODE": "NITOLINS",

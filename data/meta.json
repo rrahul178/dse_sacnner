@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-06T09:31:30.401Z",
-  "lastAttemptedAt": "2026-08-06T09:31:30.401Z",
+  "lastScrapedAt": "2026-08-09T05:08:04.885Z",
+  "lastAttemptedAt": "2026-08-09T05:08:04.885Z",
   "watchlist": [
-    "DOMINAGE",
-    "UNITEDFIN",
-    "SANDHANINS",
-    "AMANFEED",
-    "FUWANGCER",
-    "1STPRIMFMF",
-    "JHRML",
-    "DHAKAINS",
-    "SONARBAINS",
-    "NITOLINS"
+    "EMERALDOIL",
+    "LEGACYFOOT",
+    "NITOLINS",
+    "SONARGAON",
+    "BANGAS",
+    "SONALIPAPR",
+    "RUNNERAUTO",
+    "BDLAMPS",
+    "PHARMAID",
+    "NAHEEACP"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 4,
     "stayed": 1,
-    "new": 4,
+    "up": 5,
+    "new": 3,
     "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
