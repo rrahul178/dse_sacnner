@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-09T08:03:23.260Z",
-  "lastAttemptedAt": "2026-08-09T08:03:23.260Z",
+  "lastScrapedAt": "2026-08-09T09:04:26.462Z",
+  "lastAttemptedAt": "2026-08-09T09:04:26.462Z",
   "watchlist": [
-    "DHAKAINS",
-    "NITOLINS",
-    "SONARGAON",
-    "BANGAS",
-    "ACIFORMULA",
-    "RUNNERAUTO",
     "SONALIPAPR",
-    "BDLAMPS",
+    "CVOPRL",
+    "APEXFOODS",
     "RAHIMTEXT",
-    "SIPLC"
+    "NRBCBANK",
+    "WATACHEM",
+    "APEXSPINN",
+    "ANWARGALV",
+    "SIPLC",
+    "NITOLINS"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 4,
-    "up": 5,
-    "new": 1
+    "up": 4,
+    "new": 5,
+    "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
