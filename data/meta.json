@@ -1,25 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-09T05:59:44.552Z",
-  "lastAttemptedAt": "2026-08-09T05:59:44.552Z",
+  "lastScrapedAt": "2026-08-09T07:09:31.628Z",
+  "lastAttemptedAt": "2026-08-09T07:09:31.628Z",
   "watchlist": [
-    "RINGSHINE",
+    "DHAKAINS",
     "NITOLINS",
     "SONARGAON",
     "EASTERNINS",
-    "SONALIPAPR",
+    "JMISMDL",
+    "SAMORITA",
     "RUNNERAUTO",
+    "SONALIPAPR",
     "BDLAMPS",
-    "GBBPOWER",
-    "CVOPRL",
-    "SAIHAMTEX"
+    "SIPLC"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 7,
-    "down": 2,
-    "new": 1
+    "up": 1,
+    "stayed": 3,
+    "new": 2,
+    "down": 4
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
