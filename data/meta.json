@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-10T06:54:50.799Z",
-  "lastAttemptedAt": "2026-08-10T06:54:50.799Z",
+  "lastScrapedAt": "2026-08-10T08:28:59.086Z",
+  "lastAttemptedAt": "2026-08-10T08:28:59.086Z",
   "watchlist": [
-    "ASIAPACINS",
+    "DGIC",
+    "MONNOFABR",
     "ASIAINS",
+    "SHASHADNIM",
     "SAMORITA",
-    "PEOPLESINS",
     "GLOBALINS",
     "EIL",
-    "FEDERALINS",
     "EASTLAND",
-    "LEGACYFOOT",
-    "REPUBLIC"
+    "FEDERALINS",
+    "LEGACYFOOT"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 5,
-    "stayed": 1,
-    "down": 4
+    "new": 2,
+    "down": 7,
+    "stayed": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
