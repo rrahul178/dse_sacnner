@@ -1,25 +1,24 @@
 {
-  "lastScrapedAt": "2026-08-11T05:11:40.811Z",
-  "lastAttemptedAt": "2026-08-11T05:11:40.811Z",
+  "lastScrapedAt": "2026-08-11T06:06:09.474Z",
+  "lastAttemptedAt": "2026-08-11T06:06:09.474Z",
   "watchlist": [
     "BEXIMCO",
     "GBBPOWER",
+    "SOUTHEASTB",
     "BPPL",
+    "UNITEDFIN",
     "ACIFORMULA",
     "MBL1STMF",
     "BXPHARMA",
-    "IFILISLMF1",
-    "RUPALIINS",
-    "FAMILYTEX",
-    "SONALIPAPR"
+    "PEOPLESINS",
+    "RUPALIINS"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 4,
-    "down": 4,
-    "new": 2
+    "stayed": 3,
+    "down": 7
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
