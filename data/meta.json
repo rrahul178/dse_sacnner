@@ -1,24 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-11T06:06:09.474Z",
-  "lastAttemptedAt": "2026-08-11T06:06:09.474Z",
+  "lastScrapedAt": "2026-08-11T07:39:40.472Z",
+  "lastAttemptedAt": "2026-08-11T07:39:40.472Z",
   "watchlist": [
-    "BEXIMCO",
-    "GBBPOWER",
     "SOUTHEASTB",
-    "BPPL",
+    "GBBPOWER",
     "UNITEDFIN",
+    "CVOPRL",
     "ACIFORMULA",
-    "MBL1STMF",
-    "BXPHARMA",
     "PEOPLESINS",
-    "RUPALIINS"
+    "LHB",
+    "SAPORTL",
+    "IBP",
+    "ANWARGALV"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 3,
-    "down": 7
+    "up": 5,
+    "stayed": 1,
+    "down": 3,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
