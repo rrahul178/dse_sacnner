@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-11T07:39:40.472Z",
-  "lastAttemptedAt": "2026-08-11T07:39:40.472Z",
+  "lastScrapedAt": "2026-08-11T08:39:20.412Z",
+  "lastAttemptedAt": "2026-08-11T08:39:20.412Z",
   "watchlist": [
-    "SOUTHEASTB",
+    "IPDC",
+    "SAIFPOWER",
     "GBBPOWER",
-    "UNITEDFIN",
-    "CVOPRL",
+    "TUNGHAI",
     "ACIFORMULA",
-    "PEOPLESINS",
-    "LHB",
-    "SAPORTL",
+    "CVOPRL",
     "IBP",
-    "ANWARGALV"
+    "LANKABAFIN",
+    "SAPORTL",
+    "UNITEDFIN"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 5,
-    "stayed": 1,
-    "down": 3,
-    "new": 1
+    "up": 3,
+    "new": 1,
+    "down": 5,
+    "stayed": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
