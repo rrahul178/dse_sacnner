@@ -1,26 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-12T07:00:22.510Z",
-  "lastAttemptedAt": "2026-08-12T07:00:22.510Z",
+  "lastScrapedAt": "2026-08-12T08:27:15.420Z",
+  "lastAttemptedAt": "2026-08-12T08:27:15.420Z",
   "watchlist": [
     "TUNGHAI",
     "NURANI",
     "SONALIANSH",
+    "MATINSPINN",
     "PARAMOUNT",
-    "SHASHADNIM",
     "MALEKSPIN",
     "PTL",
-    "SAPORTL",
     "PEOPLESINS",
+    "SAPORTL",
     "ARGONDENIM"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 4,
-    "stayed": 2,
-    "down": 3,
-    "new": 1
+    "stayed": 7,
+    "down": 2,
+    "up": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
