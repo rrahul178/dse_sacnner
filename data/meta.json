@@ -1,15 +1,15 @@
 {
-  "lastScrapedAt": "2026-08-13T05:42:10.261Z",
-  "lastAttemptedAt": "2026-08-13T05:42:10.261Z",
+  "lastScrapedAt": "2026-08-13T07:04:53.525Z",
+  "lastAttemptedAt": "2026-08-13T07:04:53.525Z",
   "watchlist": [
-    "ACIFORMULA",
     "CVOPRL",
-    "SHASHADNIM",
+    "ACIFORMULA",
+    "DAFODILCOM",
+    "AMANFEED",
     "TUNGHAI",
-    "MLDYEING",
     "PLFSL",
+    "MATINSPINN",
     "SAPORTL",
-    "APEXFOODS",
     "REPUBLIC",
     "FEKDIL"
   ],
@@ -17,9 +17,9 @@
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 6,
-    "down": 3,
-    "new": 1
+    "up": 2,
+    "down": 4,
+    "stayed": 4
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
