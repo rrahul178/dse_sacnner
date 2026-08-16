@@ -1,25 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-16T08:02:27.313Z",
-  "lastAttemptedAt": "2026-08-16T08:02:27.313Z",
+  "lastScrapedAt": "2026-08-16T08:48:38.978Z",
+  "lastAttemptedAt": "2026-08-16T08:48:38.978Z",
   "watchlist": [
-    "GBBPOWER",
+    "GLOBALINS",
+    "PDL",
+    "ARAMIT",
+    "CONTININS",
+    "MEGHNAINS",
     "ASIAINS",
     "AMANFEED",
-    "EASTERNINS",
-    "MITHUNKNIT",
-    "CONTININS",
-    "GLOBALINS",
-    "MEGHNAINS",
-    "BENGALWTL",
-    "EASTLAND"
+    "SAIHAMCOT",
+    "EASTLAND",
+    "ALIF"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 5,
-    "down": 4,
-    "new": 1
+    "up": 5,
+    "new": 1,
+    "down": 3,
+    "stayed": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
