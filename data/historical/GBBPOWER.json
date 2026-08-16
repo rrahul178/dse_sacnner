@@ -1,33 +1,5 @@
 [
   {
-    "#": "117",
-    "DATE": "2026-02-15",
-    "TRADING CODE": "GBBPOWER",
-    "LTP*": "9",
-    "HIGH": "9.2",
-    "LOW": "8.5",
-    "OPENP*": "8.5",
-    "CLOSEP*": "9",
-    "YCP": "8.4",
-    "TRADE": "305",
-    "VALUE (mn)": "5.218",
-    "VOLUME": "581050"
-  },
-  {
-    "#": "116",
-    "DATE": "2026-02-16",
-    "TRADING CODE": "GBBPOWER",
-    "LTP*": "8.7",
-    "HIGH": "9.4",
-    "LOW": "8.6",
-    "OPENP*": "9.4",
-    "CLOSEP*": "8.7",
-    "YCP": "9",
-    "TRADE": "222",
-    "VALUE (mn)": "4.209",
-    "VOLUME": "481169"
-  },
-  {
     "#": "115",
     "DATE": "2026-02-17",
     "TRADING CODE": "GBBPOWER",

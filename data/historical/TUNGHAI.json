@@ -1,33 +1,5 @@
 [
   {
-    "#": "117",
-    "DATE": "2026-02-15",
-    "TRADING CODE": "TUNGHAI",
-    "LTP*": "2.2",
-    "HIGH": "2.2",
-    "LOW": "2.2",
-    "OPENP*": "2.2",
-    "CLOSEP*": "2.2",
-    "YCP": "2",
-    "TRADE": "18",
-    "VALUE (mn)": "0.284",
-    "VOLUME": "129060"
-  },
-  {
-    "#": "116",
-    "DATE": "2026-02-16",
-    "TRADING CODE": "TUNGHAI",
-    "LTP*": "2.4",
-    "HIGH": "2.4",
-    "LOW": "2.4",
-    "OPENP*": "2.4",
-    "CLOSEP*": "2.4",
-    "YCP": "2.2",
-    "TRADE": "41",
-    "VALUE (mn)": "0.472",
-    "VOLUME": "196580"
-  },
-  {
     "#": "115",
     "DATE": "2026-02-17",
     "TRADING CODE": "TUNGHAI",
