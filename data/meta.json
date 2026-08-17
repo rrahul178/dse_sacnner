@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-17T04:43:56.823Z",
-  "lastAttemptedAt": "2026-08-17T04:43:56.823Z",
+  "lastScrapedAt": "2026-08-17T05:23:25.076Z",
+  "lastAttemptedAt": "2026-08-17T05:23:25.076Z",
   "watchlist": [
     "KPCL",
-    "IPDC",
     "PLFSL",
-    "AMANFEED",
+    "IPDC",
     "EASTERNINS",
-    "GLOBALINS",
+    "AMANFEED",
+    "SUMITPOWER",
     "SANDHANINS",
+    "KTL",
     "BENGALWTL",
-    "DSHGARME",
-    "SOUTHEASTB"
+    "DSHGARME"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "new": 1,
-    "stayed": 1,
-    "up": 3,
-    "down": 5
+    "stayed": 2,
+    "up": 2,
+    "down": 5,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
