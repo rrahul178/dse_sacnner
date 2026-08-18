@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-18T05:15:34.834Z",
-  "lastAttemptedAt": "2026-08-18T05:15:34.834Z",
+  "lastScrapedAt": "2026-08-18T05:49:36.301Z",
+  "lastAttemptedAt": "2026-08-18T05:49:36.301Z",
   "watchlist": [
     "RUNNERAUTO",
     "SAMORITA",
     "ENVOYTEX",
-    "SOUTHEASTB",
     "IPDC",
     "MLDYEING",
     "NURANI",
-    "AMANFEED",
-    "NEWLINE",
-    "REPUBLIC"
+    "FEKDIL",
+    "DSHGARME",
+    "FAMILYTEX",
+    "SAPORTL"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 1,
-    "down": 7,
-    "stayed": 2
+    "stayed": 4,
+    "up": 5,
+    "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
