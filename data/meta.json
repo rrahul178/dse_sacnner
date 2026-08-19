@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-18T08:55:12.068Z",
-  "lastAttemptedAt": "2026-08-18T08:55:12.068Z",
+  "lastScrapedAt": "2026-08-19T04:39:04.004Z",
+  "lastAttemptedAt": "2026-08-19T04:39:04.004Z",
   "watchlist": [
-    "ENVOYTEX",
-    "ARAMIT",
-    "NURANI",
-    "FBFIF",
-    "RUNNERAUTO",
-    "HWAWELLTEX",
-    "FAMILYTEX",
-    "PUBALIBANK",
-    "PF1STMF",
-    "FARCHEM"
+    "RELIANCE1",
+    "GLDNJMF",
+    "DGIC",
+    "EIL",
+    "BSRMSTEEL",
+    "MBL1STMF",
+    "AAMRATECH",
+    "BSRMLTD",
+    "MTB",
+    "SAMORITA"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 7,
-    "down": 1,
-    "new": 1,
-    "stayed": 1
+    "up": 4,
+    "stayed": 2,
+    "down": 2,
+    "new": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
