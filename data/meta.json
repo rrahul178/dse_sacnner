@@ -1,24 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-19T08:05:16.236Z",
-  "lastAttemptedAt": "2026-08-19T08:05:16.236Z",
+  "lastScrapedAt": "2026-08-19T08:56:22.560Z",
+  "lastAttemptedAt": "2026-08-19T08:56:22.560Z",
   "watchlist": [
-    "RELIANCE1",
-    "ENVOYTEX",
-    "KTL",
-    "GLOBALINS",
     "DGIC",
-    "RUNNERAUTO",
     "IPDC",
     "ACIFORMULA",
+    "KTL",
+    "REGENTTEX",
+    "SAPORTL",
     "SOUTHEASTB",
-    "BXPHARMA"
+    "ACMEPL",
+    "GLOBALINS",
+    "RELIANCE1"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 9,
-    "down": 1
+    "up": 5,
+    "down": 4,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
