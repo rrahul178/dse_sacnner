@@ -1,24 +1,24 @@
 {
-  "lastScrapedAt": "2026-08-23T04:39:36.397Z",
-  "lastAttemptedAt": "2026-08-23T04:39:36.397Z",
+  "lastScrapedAt": "2026-08-23T05:14:21.959Z",
+  "lastAttemptedAt": "2026-08-23T05:14:21.959Z",
   "watchlist": [
     "SICL",
-    "SHYAMPSUG",
-    "AAMRANET",
     "PARAMOUNT",
+    "SHYAMPSUG",
+    "FEDERALINS",
     "SOUTHEASTB",
     "ALLTEX",
     "SHARPIND",
+    "PTL",
     "EMERALDOIL",
-    "ICBSONALI1",
-    "GBBPOWER"
+    "UNITEDFIN"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 3,
-    "up": 4,
+    "stayed": 4,
+    "up": 3,
     "down": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
