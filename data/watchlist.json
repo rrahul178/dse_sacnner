@@ -6,7 +6,7 @@
     "rankChange": 0,
     "status": "stayed",
     "buyScore": 100,
-    "rsi": 58.02840380512709,
+    "rsi": 58.02841861103477,
     "maSignal": "bearish",
     "breakout": "up",
     "volRatio": 7.920873512460368,
@@ -35,10 +35,10 @@
     },
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 1.725998783706259,
-    "adx": 10.027107816648853,
+    "atr": 1.7260290655917998,
+    "adx": 10.022589516742658,
     "mfi": 75.18136220259983,
-    "obv": 28132302,
+    "obv": 28114440,
     "obvTrend": "rising",
     "volumePercentile": 100,
     "breakoutFreshness": 100,
@@ -51,60 +51,13 @@
     "smartMoneyScore": 10
   },
   {
-    "code": "TECHNODRUG",
-    "rank": 2,
-    "previousRank": 2,
-    "rankChange": 0,
-    "status": "stayed",
-    "buyScore": 100,
-    "rsi": 56.95417042331657,
-    "maSignal": "bullish",
-    "breakout": null,
-    "volRatio": 1.8366999077690933,
-    "pattern": null,
-    "reasons": [
-      "আপট্রেন্ডে আছে (MA20 > MA50)",
-      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 1.8x)",
-      "RSI 57 - সুস্থ momentum জোনে (ওভারবট নয়)",
-      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳44.2-45.4)",
-      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
-    ],
-    "sr": {
-      "resistance": 50.4,
-      "resistanceTouches": 1,
-      "support": 46.3,
-      "supportTouches": 1
-    },
-    "orderBlock": {
-      "type": "bullish",
-      "zoneLow": 44.2,
-      "zoneHigh": 45.4
-    },
-    "fvg": null,
-    "liquiditySweep": null,
-    "atr": 1.7199569537315809,
-    "adx": 16.14112263388822,
-    "mfi": 36.13422209306841,
-    "obv": 43212589,
-    "obvTrend": "rising",
-    "volumePercentile": 88.33333333333333,
-    "breakoutFreshness": 0,
-    "relativeStrength": null,
-    "riskReward": {
-      "stopLoss": 46.3,
-      "target": 50.4,
-      "ratio": 4.12
-    },
-    "smartMoneyScore": 10
-  },
-  {
     "code": "SHYAMPSUG",
-    "rank": 3,
+    "rank": 2,
     "previousRank": 3,
-    "rankChange": 0,
-    "status": "stayed",
+    "rankChange": 1,
+    "status": "up",
     "buyScore": 100,
-    "rsi": 55.09918859610258,
+    "rsi": 55.09796434810507,
     "maSignal": "bullish",
     "breakout": null,
     "volRatio": 2.6070925950916695,
@@ -133,10 +86,10 @@
     },
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 18.679381588659872,
-    "adx": 9.383883648462444,
+    "atr": 18.679717781326442,
+    "adx": 9.379913157911444,
     "mfi": 57.47954721617671,
-    "obv": 1255750,
+    "obv": 1217316,
     "obvTrend": "rising",
     "volumePercentile": 78.33333333333333,
     "breakoutFreshness": 0,
@@ -149,13 +102,65 @@
     "smartMoneyScore": -10
   },
   {
+    "code": "AAMRANET",
+    "rank": 3,
+    "previousRank": 7,
+    "rankChange": 4,
+    "status": "up",
+    "buyScore": 100,
+    "rsi": 57.422926494659265,
+    "maSignal": "bullish",
+    "breakout": null,
+    "volRatio": 1.7106982369271218,
+    "pattern": {
+      "name": "মর্নিং স্টার",
+      "type": "bullish"
+    },
+    "reasons": [
+      "আপট্রেন্ডে আছে (MA20 > MA50)",
+      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 1.7x)",
+      "RSI 57 - সুস্থ momentum জোনে (ওভারবট নয়)",
+      "মর্নিং স্টার ক্যান্ডেলস্টিক প্যাটার্ন (বুলিশ)",
+      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳19.9-20.8)",
+      "MFI 52 - অর্থপ্রবাহ সহায়ক",
+      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
+    ],
+    "sr": {
+      "resistance": 21.9,
+      "resistanceTouches": 1,
+      "support": 19.9,
+      "supportTouches": 1
+    },
+    "orderBlock": {
+      "type": "bullish",
+      "zoneLow": 19.9,
+      "zoneHigh": 20.8
+    },
+    "fvg": null,
+    "liquiditySweep": null,
+    "atr": 0.7431366151447013,
+    "adx": 18.55987352738502,
+    "mfi": 52.012698116292604,
+    "obv": 5143329,
+    "obvTrend": "rising",
+    "volumePercentile": 78.33333333333333,
+    "breakoutFreshness": 0,
+    "relativeStrength": null,
+    "riskReward": {
+      "stopLoss": 19.9,
+      "target": 21.9,
+      "ratio": 0.33
+    },
+    "smartMoneyScore": 10
+  },
+  {
     "code": "PARAMOUNT",
     "rank": 4,
     "previousRank": 4,
     "rankChange": 0,
     "status": "stayed",
     "buyScore": 100,
-    "rsi": 51.502473818317476,
+    "rsi": 51.5021141294622,
     "maSignal": "golden",
     "breakout": null,
     "volRatio": 1.188098918115845,
@@ -180,10 +185,10 @@
     },
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 3.109898652970363,
-    "adx": 24.87053930913328,
+    "atr": 3.1098986055065923,
+    "adx": 24.852470578341563,
     "mfi": 69.72707174382668,
-    "obv": 5990470,
+    "obv": 6030895,
     "obvTrend": "rising",
     "volumePercentile": 70,
     "breakoutFreshness": 0,
@@ -196,211 +201,103 @@
     "smartMoneyScore": 10
   },
   {
-    "code": "JAMUNABANK",
+    "code": "SOUTHEASTB",
     "rank": 5,
-    "previousRank": 5,
-    "rankChange": 0,
-    "status": "stayed",
-    "buyScore": 100,
-    "rsi": 60.203368102792034,
+    "previousRank": 7,
+    "rankChange": 2,
+    "status": "up",
+    "buyScore": 95,
+    "rsi": 52.893166093125004,
     "maSignal": "bullish",
     "breakout": null,
-    "volRatio": 1.1077900779474075,
-    "pattern": {
-      "name": "বুলিশ মারুবোজু",
-      "type": "bullish"
-    },
+    "volRatio": 3.9320139244425882,
+    "pattern": null,
     "reasons": [
       "আপট্রেন্ডে আছে (MA20 > MA50)",
-      "RSI 60 - সুস্থ momentum জোনে (ওভারবট নয়)",
-      "বুলিশ মারুবোজু ক্যান্ডেলস্টিক প্যাটার্ন (বুলিশ)",
-      "ADX 28 - ট্রেন্ডের শক্তি ভালো",
-      "MFI 62 - অর্থপ্রবাহ সহায়ক",
-      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
+      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 3.9x)",
+      "RSI 53 - সুস্থ momentum জোনে (ওভারবট নয়)",
+      "ADX 36 - ট্রেন্ডের শক্তি ভালো",
+      "MFI 46 - অর্থপ্রবাহ সহায়ক"
     ],
     "sr": {
-      "resistance": 26.2,
+      "resistance": 11.2,
       "resistanceTouches": 1,
-      "support": 23.95,
-      "supportTouches": 2
+      "support": 10.4,
+      "supportTouches": 3
     },
     "orderBlock": null,
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 0.3168474113774686,
-    "adx": 28.082322263691697,
-    "mfi": 62.39768272368293,
-    "obv": 66914720,
-    "obvTrend": "rising",
-    "volumePercentile": 43.333333333333336,
+    "atr": 0.444399528089484,
+    "adx": 35.8710945545426,
+    "mfi": 46.374274176334126,
+    "obv": 4656423,
+    "obvTrend": "falling",
+    "volumePercentile": 100,
     "breakoutFreshness": 0,
     "relativeStrength": null,
     "riskReward": {
-      "stopLoss": 23.95,
-      "target": 26.2,
-      "ratio": 3.09
+      "stopLoss": 10.4,
+      "target": 11.2,
+      "ratio": 0.14
     },
     "smartMoneyScore": 0
   },
   {
-    "code": "CONTININS",
+    "code": "ALLTEX",
     "rank": 6,
     "previousRank": 6,
     "rankChange": 0,
     "status": "stayed",
-    "buyScore": 100,
-    "rsi": 56.46144192733657,
+    "buyScore": 94,
+    "rsi": 68.02531720733401,
     "maSignal": "bullish",
     "breakout": null,
-    "volRatio": 0.8712455353960952,
-    "pattern": {
-      "name": "মর্নিং স্টার",
-      "type": "bullish"
-    },
+    "volRatio": 1.3324902565567522,
+    "pattern": null,
     "reasons": [
       "আপট্রেন্ডে আছে (MA20 > MA50)",
-      "RSI 56 - সুস্থ momentum জোনে (ওভারবট নয়)",
-      "মর্নিং স্টার ক্যান্ডেলস্টিক প্যাটার্ন (বুলিশ)",
-      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳35.0-36.4)",
-      "MFI 71 - অর্থপ্রবাহ সহায়ক",
+      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 1.3x)",
+      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳21.8-23.0)",
+      "ADX 62 - ট্রেন্ডের শক্তি ভালো",
       "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
     ],
     "sr": {
-      "resistance": 37,
-      "resistanceTouches": 1,
-      "support": 31.9,
-      "supportTouches": 1
+      "resistance": null,
+      "resistanceTouches": 0,
+      "support": 16.8,
+      "supportTouches": 2
     },
     "orderBlock": {
       "type": "bullish",
-      "zoneLow": 35,
-      "zoneHigh": 36.4
+      "zoneLow": 21.8,
+      "zoneHigh": 23
     },
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 1.6837392446199202,
-    "adx": 9.868117536271894,
-    "mfi": 70.80887135761999,
-    "obv": 8966279,
+    "atr": 0.9303827423791898,
+    "adx": 61.87895994167466,
+    "mfi": 80.36730009046396,
+    "obv": 7435869,
     "obvTrend": "rising",
-    "volumePercentile": 43.333333333333336,
+    "volumePercentile": 83.33333333333333,
     "breakoutFreshness": 0,
     "relativeStrength": null,
     "riskReward": {
-      "stopLoss": 31.9,
-      "target": 37,
-      "ratio": 0.04
-    },
-    "smartMoneyScore": 10
-  },
-  {
-    "code": "ZEALBANGLA",
-    "rank": 7,
-    "previousRank": 7,
-    "rankChange": 0,
-    "status": "stayed",
-    "buyScore": 100,
-    "rsi": 50.97986517744959,
-    "maSignal": "bullish",
-    "breakout": null,
-    "volRatio": 1.028045336737457,
-    "pattern": {
-      "name": "বুলিশ এনগাল্ফিং",
-      "type": "bullish"
-    },
-    "reasons": [
-      "আপট্রেন্ডে আছে (MA20 > MA50)",
-      "RSI 51 - সুস্থ momentum জোনে (ওভারবট নয়)",
-      "বুলিশ এনগাল্ফিং ক্যান্ডেলস্টিক প্যাটার্ন (বুলিশ)",
-      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳178.0-191.9)",
-      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
-    ],
-    "sr": {
-      "resistance": 234,
-      "resistanceTouches": 1,
-      "support": 201.3,
-      "supportTouches": 1
-    },
-    "orderBlock": {
-      "type": "bullish",
-      "zoneLow": 178,
-      "zoneHigh": 191.9
-    },
-    "fvg": null,
-    "liquiditySweep": null,
-    "atr": 15.166747514913014,
-    "adx": 16.640585382769565,
-    "mfi": 43.38441251932236,
-    "obv": 324843,
-    "obvTrend": "rising",
-    "volumePercentile": 55,
-    "breakoutFreshness": 0,
-    "relativeStrength": null,
-    "riskReward": {
-      "stopLoss": 201.3,
-      "target": 234,
-      "ratio": 16.21
-    },
-    "smartMoneyScore": 10
-  },
-  {
-    "code": "FEDERALINS",
-    "rank": 8,
-    "previousRank": 8,
-    "rankChange": 0,
-    "status": "stayed",
-    "buyScore": 99,
-    "rsi": 59.41376744125126,
-    "maSignal": "bullish",
-    "breakout": null,
-    "volRatio": 0.7298436354652674,
-    "pattern": {
-      "name": "মর্নিং স্টার",
-      "type": "bullish"
-    },
-    "reasons": [
-      "আপট্রেন্ডে আছে (MA20 > MA50)",
-      "RSI 59 - সুস্থ momentum জোনে (ওভারবট নয়)",
-      "মর্নিং স্টার ক্যান্ডেলস্টিক প্যাটার্ন (বুলিশ)",
-      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳28.2-29.3)",
-      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
-    ],
-    "sr": {
-      "resistance": 30.9,
-      "resistanceTouches": 1,
-      "support": 26.1,
-      "supportTouches": 1
-    },
-    "orderBlock": {
-      "type": "bullish",
-      "zoneLow": 28.2,
-      "zoneHigh": 29.3
-    },
-    "fvg": null,
-    "liquiditySweep": null,
-    "atr": 1.2961398155530366,
-    "adx": 21.206521729811012,
-    "mfi": 81.41516053278276,
-    "obv": 39620366,
-    "obvTrend": "rising",
-    "volumePercentile": 45,
-    "breakoutFreshness": 0,
-    "relativeStrength": null,
-    "riskReward": {
-      "stopLoss": 26.1,
-      "target": 30.9,
-      "ratio": 0.04
+      "stopLoss": 16.8,
+      "target": 26.89,
+      "ratio": 0.38
     },
     "smartMoneyScore": 10
   },
   {
     "code": "SHARPIND",
-    "rank": 9,
+    "rank": 7,
     "previousRank": 9,
-    "rankChange": 0,
-    "status": "stayed",
+    "rankChange": 2,
+    "status": "up",
     "buyScore": 93,
-    "rsi": 47.10819228920954,
+    "rsi": 47.10852612320073,
     "maSignal": "bullish",
     "breakout": null,
     "volRatio": 0.9123696115574278,
@@ -421,10 +318,10 @@
     "orderBlock": null,
     "fvg": null,
     "liquiditySweep": null,
-    "atr": 3.0245602477074156,
-    "adx": 45.00630694181279,
+    "atr": 3.0246044313922913,
+    "adx": 45.00313302120399,
     "mfi": 69.58084382088465,
-    "obv": 85598465,
+    "obv": 85753225,
     "obvTrend": "rising",
     "volumePercentile": 80,
     "breakoutFreshness": 0,
@@ -437,48 +334,142 @@
     "smartMoneyScore": 0
   },
   {
-    "code": "PTL",
-    "rank": 10,
-    "previousRank": 10,
-    "rankChange": 0,
-    "status": "stayed",
-    "buyScore": 92,
-    "rsi": 68.21457613546092,
-    "maSignal": "golden",
+    "code": "EMERALDOIL",
+    "rank": 8,
+    "previousRank": 1,
+    "rankChange": -7,
+    "status": "down",
+    "buyScore": 90,
+    "rsi": 50.62354368180504,
+    "maSignal": "bullish",
     "breakout": null,
-    "volRatio": 4.837362637362637,
+    "volRatio": 0.529550350702064,
     "pattern": null,
     "reasons": [
-      "গোল্ডেন ক্রস - MA20 এইমাত্র MA50 কে ক্রস করেছে (নতুন আপট্রেন্ড)",
-      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 4.8x)",
-      "MFI 67 - অর্থপ্রবাহ সহায়ক",
+      "আপট্রেন্ডে আছে (MA20 > MA50)",
+      "RSI 51 - সুস্থ momentum জোনে (ওভারবট নয়)",
+      "ADX 38 - ট্রেন্ডের শক্তি ভালো",
       "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
     ],
     "sr": {
-      "resistance": 69,
-      "resistanceTouches": 1,
-      "support": 62.73333333333333,
-      "supportTouches": 3
+      "resistance": 31.75,
+      "resistanceTouches": 2,
+      "support": 26.7,
+      "supportTouches": 1
     },
     "orderBlock": null,
     "fvg": null,
-    "liquiditySweep": {
-      "type": "bearish",
-      "level": 68.3
-    },
-    "atr": 1.640333474000714,
-    "adx": 16.569120725898802,
-    "mfi": 67.0562827348443,
-    "obv": 36096951,
+    "liquiditySweep": null,
+    "atr": 1.1538969184965866,
+    "adx": 38.339130514636345,
+    "mfi": 39.37655977794844,
+    "obv": 4880576,
     "obvTrend": "rising",
-    "volumePercentile": 98.33333333333333,
+    "volumePercentile": 15,
     "breakoutFreshness": 0,
     "relativeStrength": null,
     "riskReward": {
-      "stopLoss": 62.73,
-      "target": 69,
-      "ratio": 0.15
+      "stopLoss": 26.7,
+      "target": 31.75,
+      "ratio": 2.88
     },
-    "smartMoneyScore": -10
+    "smartMoneyScore": 0
+  },
+  {
+    "code": "ICBSONALI1",
+    "rank": 9,
+    "previousRank": 2,
+    "rankChange": -7,
+    "status": "down",
+    "buyScore": 90,
+    "rsi": 43.763445915371854,
+    "maSignal": "bullish",
+    "breakout": null,
+    "volRatio": 0.2168371069998335,
+    "pattern": {
+      "name": "ডোজি",
+      "type": "neutral"
+    },
+    "reasons": [
+      "আপট্রেন্ডে আছে (MA20 > MA50)",
+      "RSI 44 - সুস্থ momentum জোনে (ওভারবট নয়)",
+      "ADX 31 - ট্রেন্ডের শক্তি ভালো",
+      "MFI 66 - অর্থপ্রবাহ সহায়ক",
+      "OBV ঊর্ধ্বমুখী - ভলিউমে ক্রেতার সমর্থন"
+    ],
+    "sr": {
+      "resistance": 6.85,
+      "resistanceTouches": 2,
+      "support": 6,
+      "supportTouches": 1
+    },
+    "orderBlock": null,
+    "fvg": null,
+    "liquiditySweep": null,
+    "atr": 0.35767596079609953,
+    "adx": 30.632986323531167,
+    "mfi": 66.11870493727679,
+    "obv": 23147182,
+    "obvTrend": "rising",
+    "volumePercentile": 35,
+    "breakoutFreshness": 0,
+    "relativeStrength": null,
+    "riskReward": {
+      "stopLoss": 6,
+      "target": 6.85,
+      "ratio": 7.5
+    },
+    "smartMoneyScore": 0
+  },
+  {
+    "code": "GBBPOWER",
+    "rank": 10,
+    "previousRank": 1,
+    "rankChange": -9,
+    "status": "down",
+    "buyScore": 86,
+    "rsi": 60.82452948670599,
+    "maSignal": "bullish",
+    "breakout": null,
+    "volRatio": 1.530426079758476,
+    "pattern": null,
+    "reasons": [
+      "আপট্রেন্ডে আছে (MA20 > MA50)",
+      "ভলিউম কনফার্মেশন (২০-দিনের গড়ের 1.5x)",
+      "RSI 61 - সুস্থ momentum জোনে (ওভারবট নয়)",
+      "বুলিশ অর্ডার ব্লক জোনের উপরে (৳13.4-14.9)",
+      "ADX 76 - ট্রেন্ডের শক্তি ভালো"
+    ],
+    "sr": {
+      "resistance": null,
+      "resistanceTouches": 0,
+      "support": 8.4,
+      "supportTouches": 1
+    },
+    "orderBlock": {
+      "type": "bullish",
+      "zoneLow": 13.4,
+      "zoneHigh": 14.9
+    },
+    "fvg": {
+      "type": "bearish",
+      "top": 16,
+      "bottom": 15
+    },
+    "liquiditySweep": null,
+    "atr": 0.9807165195993263,
+    "adx": 75.78911059777921,
+    "mfi": 83.69471514753076,
+    "obv": 12393398,
+    "obvTrend": "falling",
+    "volumePercentile": 91.66666666666667,
+    "breakoutFreshness": 0,
+    "relativeStrength": null,
+    "riskReward": {
+      "stopLoss": 8.4,
+      "target": 16.54,
+      "ratio": 0.57
+    },
+    "smartMoneyScore": 0
   }
 ]

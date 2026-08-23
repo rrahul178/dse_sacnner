@@ -1,23 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-20T09:19:07.111Z",
-  "lastAttemptedAt": "2026-08-20T09:19:07.111Z",
+  "lastScrapedAt": "2026-08-23T04:39:36.397Z",
+  "lastAttemptedAt": "2026-08-23T04:39:36.397Z",
   "watchlist": [
     "SICL",
-    "TECHNODRUG",
     "SHYAMPSUG",
+    "AAMRANET",
     "PARAMOUNT",
-    "JAMUNABANK",
-    "CONTININS",
-    "ZEALBANGLA",
-    "FEDERALINS",
+    "SOUTHEASTB",
+    "ALLTEX",
     "SHARPIND",
-    "PTL"
+    "EMERALDOIL",
+    "ICBSONALI1",
+    "GBBPOWER"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 10
+    "stayed": 3,
+    "up": 4,
+    "down": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }

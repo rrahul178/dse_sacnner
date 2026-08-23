@@ -1,33 +1,5 @@
 [
   {
-    "#": "117",
-    "DATE": "2026-02-22",
-    "TRADING CODE": "PARAMOUNT",
-    "LTP*": "54.4",
-    "HIGH": "55.7",
-    "LOW": "54.1",
-    "OPENP*": "55",
-    "CLOSEP*": "54.4",
-    "YCP": "54.7",
-    "TRADE": "289",
-    "VALUE (mn)": "9.255",
-    "VOLUME": "169260"
-  },
-  {
-    "#": "116",
-    "DATE": "2026-02-23",
-    "TRADING CODE": "PARAMOUNT",
-    "LTP*": "56",
-    "HIGH": "56.4",
-    "LOW": "54.7",
-    "OPENP*": "55.5",
-    "CLOSEP*": "56",
-    "YCP": "54.4",
-    "TRADE": "441",
-    "VALUE (mn)": "13.297",
-    "VOLUME": "238727"
-  },
-  {
     "#": "115",
     "DATE": "2026-02-24",
     "TRADING CODE": "PARAMOUNT",

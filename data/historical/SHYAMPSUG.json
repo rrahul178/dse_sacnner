@@ -1,33 +1,5 @@
 [
   {
-    "#": "117",
-    "DATE": "2026-02-22",
-    "TRADING CODE": "SHYAMPSUG",
-    "LTP*": "157.3",
-    "HIGH": "166.9",
-    "LOW": "150.1",
-    "OPENP*": "165.1",
-    "CLOSEP*": "157.3",
-    "YCP": "165.4",
-    "TRADE": "193",
-    "VALUE (mn)": "1.594",
-    "VOLUME": "10069"
-  },
-  {
-    "#": "116",
-    "DATE": "2026-02-23",
-    "TRADING CODE": "SHYAMPSUG",
-    "LTP*": "163.6",
-    "HIGH": "164.6",
-    "LOW": "157.3",
-    "OPENP*": "157.3",
-    "CLOSEP*": "163.5",
-    "YCP": "157.3",
-    "TRADE": "31",
-    "VALUE (mn)": "3.851",
-    "VOLUME": "23555"
-  },
-  {
     "#": "115",
     "DATE": "2026-02-24",
     "TRADING CODE": "SHYAMPSUG",
