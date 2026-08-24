@@ -1,23 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-23T09:05:37.446Z",
-  "lastAttemptedAt": "2026-08-23T09:05:37.446Z",
+  "lastScrapedAt": "2026-08-24T04:47:04.175Z",
+  "lastAttemptedAt": "2026-08-24T04:47:04.175Z",
   "watchlist": [
-    "FARCHEM",
     "RAKCERAMIC",
-    "SOUTHEASTB",
-    "BSRMLTD",
-    "FBFIF",
-    "AAMRANET",
-    "VAMLRBBF",
-    "SHARPIND",
     "EMERALDOIL",
-    "HAMI"
+    "PTL",
+    "HAMI",
+    "ACMEPL",
+    "SHYAMPSUG",
+    "AMANFEED",
+    "GBBPOWER",
+    "DHAKABANK",
+    "MEGCONMILK"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 10
+    "up": 6,
+    "down": 1,
+    "stayed": 1,
+    "new": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
