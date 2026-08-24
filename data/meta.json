@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-24T06:25:16.512Z",
-  "lastAttemptedAt": "2026-08-24T06:25:16.512Z",
+  "lastScrapedAt": "2026-08-24T07:38:11.776Z",
+  "lastAttemptedAt": "2026-08-24T07:38:11.776Z",
   "watchlist": [
-    "RAKCERAMIC",
+    "ARAMIT",
     "PTL",
     "HAMI",
     "GENNEXT",
     "ACMEPL",
-    "HWAWELLTEX",
-    "AMANFEED",
-    "SHYAMPSUG",
-    "BNICL",
-    "DBH"
+    "MEGCONMILK",
+    "SAIHAMTEX",
+    "POPULAR1MF",
+    "MARICO",
+    "BEXIMCO"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 2,
-    "up": 4,
-    "new": 1,
-    "down": 3
+    "up": 3,
+    "stayed": 4,
+    "down": 2,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
