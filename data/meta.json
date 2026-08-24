@@ -1,26 +1,26 @@
 {
-  "lastScrapedAt": "2026-08-24T08:27:41.835Z",
-  "lastAttemptedAt": "2026-08-24T08:27:41.835Z",
+  "lastScrapedAt": "2026-08-24T09:25:34.261Z",
+  "lastAttemptedAt": "2026-08-24T09:25:34.261Z",
   "watchlist": [
-    "RAKCERAMIC",
-    "PTL",
-    "HAMI",
     "ACMEPL",
-    "ALLTEX",
+    "RAKCERAMIC",
+    "HAMI",
     "ARAMITCEM",
-    "MEGCONMILK",
+    "PTL",
+    "ALLTEX",
     "SAIHAMTEX",
+    "MEGCONMILK",
     "CITYGENINS",
-    "IBNSINA"
+    "SAFKOSPINN"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 3,
-    "up": 2,
-    "new": 2,
-    "down": 3
+    "up": 3,
+    "down": 4,
+    "stayed": 2,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
