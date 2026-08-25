@@ -1,26 +1,24 @@
 {
-  "lastScrapedAt": "2026-08-25T07:02:18.717Z",
-  "lastAttemptedAt": "2026-08-25T07:02:18.717Z",
+  "lastScrapedAt": "2026-08-25T08:00:00.259Z",
+  "lastAttemptedAt": "2026-08-25T08:00:00.259Z",
   "watchlist": [
     "ACMEPL",
-    "SAMORITA",
+    "KTL",
     "RELIANCE1",
+    "SAMORITA",
     "TECHNODRUG",
-    "BXPHARMA",
-    "ESQUIRENIT",
+    "SOUTHEASTB",
     "PTL",
     "PLFSL",
-    "SAIHAMTEX",
-    "ENVOYTEX"
+    "ALLTEX",
+    "SAIHAMTEX"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 3,
-    "up": 4,
-    "new": 1,
-    "down": 2
+    "stayed": 5,
+    "down": 5
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
