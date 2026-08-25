@@ -1,24 +1,25 @@
 {
-  "lastScrapedAt": "2026-08-25T08:00:00.259Z",
-  "lastAttemptedAt": "2026-08-25T08:00:00.259Z",
+  "lastScrapedAt": "2026-08-25T08:54:12.911Z",
+  "lastAttemptedAt": "2026-08-25T08:54:12.911Z",
   "watchlist": [
-    "ACMEPL",
-    "KTL",
-    "RELIANCE1",
-    "SAMORITA",
-    "TECHNODRUG",
+    "MEGCONMILK",
+    "DAFODILCOM",
     "SOUTHEASTB",
-    "PTL",
-    "PLFSL",
-    "ALLTEX",
-    "SAIHAMTEX"
+    "GENNEXT",
+    "NITOLINS",
+    "CAPMBDBLMF",
+    "FEKDIL",
+    "ACMEPL",
+    "ENVOYTEX",
+    "TECHNODRUG"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 5,
-    "down": 5
+    "up": 6,
+    "stayed": 2,
+    "down": 2
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
