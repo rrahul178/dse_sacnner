@@ -1,19 +1,5 @@
 [
   {
-    "#": "116",
-    "DATE": "2026-02-26",
-    "TRADING CODE": "ACMEPL",
-    "LTP*": "16.6",
-    "HIGH": "17.3",
-    "LOW": "16.4",
-    "OPENP*": "17.3",
-    "CLOSEP*": "16.6",
-    "YCP": "16.5",
-    "TRADE": "726",
-    "VALUE (mn)": "28.169",
-    "VOLUME": "1700238"
-  },
-  {
     "#": "115",
     "DATE": "2026-03-01",
     "TRADING CODE": "ACMEPL",

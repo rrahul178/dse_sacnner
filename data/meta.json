@@ -1,6 +1,6 @@
 {
-  "lastScrapedAt": "2026-08-25T08:54:12.911Z",
-  "lastAttemptedAt": "2026-08-25T08:54:12.911Z",
+  "lastScrapedAt": "2026-08-26T04:42:05.575Z",
+  "lastAttemptedAt": "2026-08-26T04:42:05.575Z",
   "watchlist": [
     "MEGCONMILK",
     "DAFODILCOM",
@@ -17,9 +17,7 @@
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 6,
-    "stayed": 2,
-    "down": 2
+    "stayed": 10
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }

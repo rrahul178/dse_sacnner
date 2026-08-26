@@ -1,19 +1,5 @@
 [
   {
-    "#": "116",
-    "DATE": "2026-02-26",
-    "TRADING CODE": "ENVOYTEX",
-    "LTP*": "52.3",
-    "HIGH": "52.5",
-    "LOW": "51.9",
-    "OPENP*": "52",
-    "CLOSEP*": "52.3",
-    "YCP": "51.6",
-    "TRADE": "425",
-    "VALUE (mn)": "12.629",
-    "VOLUME": "242222"
-  },
-  {
     "#": "115",
     "DATE": "2026-03-01",
     "TRADING CODE": "ENVOYTEX",
