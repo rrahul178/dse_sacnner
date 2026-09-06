@@ -1,33 +1,5 @@
 [
   {
-    "#": "116",
-    "DATE": "2026-03-08",
-    "TRADING CODE": "BDLAMPS",
-    "LTP*": "129.8",
-    "HIGH": "137",
-    "LOW": "128.7",
-    "OPENP*": "134.3",
-    "CLOSEP*": "129.8",
-    "YCP": "134.3",
-    "TRADE": "154",
-    "VALUE (mn)": "0.709",
-    "VOLUME": "5426"
-  },
-  {
-    "#": "115",
-    "DATE": "2026-03-09",
-    "TRADING CODE": "BDLAMPS",
-    "LTP*": "136",
-    "HIGH": "136",
-    "LOW": "126",
-    "OPENP*": "126",
-    "CLOSEP*": "133.7",
-    "YCP": "129.8",
-    "TRADE": "168",
-    "VALUE (mn)": "0.265",
-    "VOLUME": "1988"
-  },
-  {
     "#": "114",
     "DATE": "2026-03-10",
     "TRADING CODE": "BDLAMPS",

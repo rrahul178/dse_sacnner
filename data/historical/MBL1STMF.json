@@ -1,33 +1,5 @@
 [
   {
-    "#": "116",
-    "DATE": "2026-03-08",
-    "TRADING CODE": "MBL1STMF",
-    "LTP*": "3.8",
-    "HIGH": "4",
-    "LOW": "3.7",
-    "OPENP*": "3.9",
-    "CLOSEP*": "3.7",
-    "YCP": "3.9",
-    "TRADE": "36",
-    "VALUE (mn)": "0.094",
-    "VOLUME": "24694"
-  },
-  {
-    "#": "115",
-    "DATE": "2026-03-09",
-    "TRADING CODE": "MBL1STMF",
-    "LTP*": "3.9",
-    "HIGH": "4",
-    "LOW": "3.7",
-    "OPENP*": "3.8",
-    "CLOSEP*": "3.9",
-    "YCP": "3.7",
-    "TRADE": "27",
-    "VALUE (mn)": "0.234",
-    "VOLUME": "60426"
-  },
-  {
     "#": "114",
     "DATE": "2026-03-10",
     "TRADING CODE": "MBL1STMF",
