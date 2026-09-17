@@ -1,25 +1,25 @@
 {
-  "lastScrapedAt": "2026-09-16T09:10:02.993Z",
-  "lastAttemptedAt": "2026-09-16T09:10:02.993Z",
+  "lastScrapedAt": "2026-09-17T09:17:45.533Z",
+  "lastAttemptedAt": "2026-09-17T09:17:45.533Z",
   "watchlist": [
-    "SAMATALETH",
-    "ORIONINFU",
-    "AL-HAJTEX",
-    "ABBANK",
-    "MHSML",
-    "SILCOPHL",
-    "SAIHAMTEX",
-    "MEGHNAPET",
-    "GQBALLPEN",
-    "RAHIMTEXT"
+    "BNICL",
+    "MBL1STMF",
+    "ICBSONALI1",
+    "APEXSPINN",
+    "SIPLC",
+    "MONNOCERA",
+    "MERCINS",
+    "IFILISLMF1",
+    "ASIATICLAB",
+    "ORIONINFU"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
     "up": 4,
-    "new": 3,
-    "down": 3
+    "down": 5,
+    "new": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
