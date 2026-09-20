@@ -1,25 +1,26 @@
 {
-  "lastScrapedAt": "2026-09-17T09:17:45.533Z",
-  "lastAttemptedAt": "2026-09-17T09:17:45.533Z",
+  "lastScrapedAt": "2026-09-20T09:09:37.931Z",
+  "lastAttemptedAt": "2026-09-20T09:09:37.931Z",
   "watchlist": [
-    "BNICL",
+    "KBPPWBIL",
     "MBL1STMF",
-    "ICBSONALI1",
-    "APEXSPINN",
-    "SIPLC",
-    "MONNOCERA",
+    "ORIONINFU",
     "MERCINS",
-    "IFILISLMF1",
-    "ASIATICLAB",
-    "ORIONINFU"
+    "NFML",
+    "SAPORTL",
+    "LHB",
+    "ICBSONALI1",
+    "1STPRIMFMF",
+    "LOVELLO"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "up": 4,
-    "down": 5,
-    "new": 1
+    "up": 3,
+    "stayed": 2,
+    "new": 2,
+    "down": 3
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
