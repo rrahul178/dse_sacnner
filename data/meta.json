@@ -1,26 +1,25 @@
 {
-  "lastScrapedAt": "2026-09-22T09:08:21.563Z",
-  "lastAttemptedAt": "2026-09-22T09:08:21.563Z",
+  "lastScrapedAt": "2026-09-23T09:09:54.310Z",
+  "lastAttemptedAt": "2026-09-23T09:09:54.310Z",
   "watchlist": [
-    "DOMINAGE",
-    "ICICL",
-    "ACMEPL",
-    "PTL",
-    "ORIONINFU",
-    "SPCERAMICS",
-    "ISNLTD",
-    "FINEFOODS",
-    "GRAMEENS2",
-    "ETL"
+    "UNIQUEHRL",
+    "INDEXAGRO",
+    "MATINSPINN",
+    "APEXSPINN",
+    "CLICL",
+    "ORIONPHARM",
+    "SUNLIFEINS",
+    "BPML",
+    "MONOSPOOL",
+    "TOSRIFA"
   ],
   "noFreshSession": false,
   "scrapeFailed": false,
   "scannerVersion": "2.0.0",
   "rankSummary": {
-    "stayed": 1,
-    "up": 4,
-    "down": 3,
-    "new": 2
+    "new": 6,
+    "stayed": 3,
+    "down": 1
   },
   "strategy": "auto: RSI + MA ক্রসওভার + ২০-দিনের ব্রেকআউট + সাপোর্ট/রেজিস্ট্যান্স + Smart Money Concept (Order Block/FVG/Liquidity Sweep) + ক্যান্ডেলস্টিক প্যাটার্ন + ভলিউম কনফার্মেশন"
 }
